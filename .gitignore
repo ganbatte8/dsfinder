@@ -1,0 +1,17 @@
+*.dll
+*.obj
+*.exe
+*.pdb
+*.lib
+*.exp
+*.rdbg
+*.so
+*.willbeso
+build/dsfinder_asset_packer
+build/linux_dsfinder
+build/win32
+build/linux
+src/stb_truetype.h
+src/walk.c
+src/stream_parser.c
+src/dsfinder_asset_packer.cpp
