@@ -7,6 +7,7 @@
 *.rdbg
 *.so
 *.willbeso
+*.zip
 build/dsfinder_asset_packer
 build/linux_dsfinder
 build/win32
